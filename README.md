@@ -10,3 +10,4 @@ This is Features page
 
 This is Docs page
 <img width="1440" alt="7" src="https://user-images.githubusercontent.com/126603018/224130781-d443ef5b-f93a-4ca0-99e5-2eaa5fb1ace0.png">
+[Primeri mojega dela (dragged).pdf](https://github.com/tjasabizjak/Website-Paw/files/10936030/Primeri.mojega.dela.dragged.pdf)
