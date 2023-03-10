@@ -9,5 +9,4 @@ This is Features page
 <img width="1440" alt="6" src="https://user-images.githubusercontent.com/126603018/224130776-c6020286-67cd-4a09-912f-48747e2e3eb5.png">
 
 This is Docs page
-<img width="1440" alt="7" src="https://user-images.githubusercontent.com/126603018/224130781-d443ef5b-f93a-4ca0-99e5-2eaa5fb1ace0.png">
-[Primeri mojega dela (dragged).pdf](https://github.com/tjasabizjak/Website-Paw/files/10936030/Primeri.mojega.dela.dragged.pdf)
+![3](https://user-images.githubusercontent.com/126603018/224259363-420f813e-708f-4999-a000-6f0c24fb9c4a.png)
